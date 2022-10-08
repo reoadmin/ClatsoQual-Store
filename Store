@@ -1,0 +1,2596 @@
+
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://clatsoqual.myshopify.com/">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+      clatsoqual
+</title>
+
+    
+
+    
+
+<meta property="og:site_name" content="clatsoqual">
+<meta property="og:url" content="https://clatsoqual.myshopify.com/">
+<meta property="og:title" content="clatsoqual">
+<meta property="og:type" content="website">
+<meta property="og:description" content="clatsoqual"><meta property="og:image" content="http://cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?height=628&pad_color=ffffff&v=1663787451&width=1200">
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?height=628&pad_color=ffffff&v=1663787451&width=1200">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="clatsoqual">
+<meta name="twitter:description" content="clatsoqual">
+
+
+    <script src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/global.js?v=149496944046504657681663784574" defer="defer"></script>
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/63192072379/digital_wallets/dialog">
+<script id="shopify-features" type="application/json">{"accessToken":"b532274205aa8064b91c562f0ba596f2","betas":["rich-media-storefront-analytics"],"domain":"clatsoqual.myshopify.com","predictiveSearch":true,"shopId":63192072379,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "clatsoqual.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"BWP","rate":"1.0"};
+Shopify.country = "BW";
+Shopify.theme = {"name":"Dawn","id":132005134523,"theme_store_id":887,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script id="__st">var __st={"a":63192072379,"offset":7200,"reqid":"65753308-f74a-47bb-9a1f-028fab85c287","pageurl":"clatsoqual.myshopify.com\/","u":"af37ccc65a97","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script>document.addEventListener('DOMContentLoaded', function() {
+  const previewBarInjector = new Shopify.PreviewBarInjector({
+    targetNode: document.body,
+    iframeRoot: 'https://clatsoqual.myshopify.com',
+    iframeSrc: 'https://clatsoqual.myshopify.com/preview_bar',
+    previewToken: '2b7707cn3y2lnb4b',
+    themeStoreId: '887',
+    permanentDomain: 'clatsoqual.myshopify.com',
+  });
+  previewBarInjector.init();
+});</script>
+<script integrity="sha256-qzgBevPPdZ2wrwu9HnUin2oYn1vx8ttCFpYwmYuWkCE=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-ab38017af3cf759db0af0bbd1e75229f6a189f5bf1f2db42169630998b969021.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+<script integrity="sha256-V7lM7zdLAxLbwI5Iz1g1WLOqzMR1UKAIHMJLCMbKENY=" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/bars/preview_bar_injector-57b94cef374b0312dbc08e48cf583558b3aaccc47550a0081cc24b08c6ca10d6.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header,footer" defer="defer" src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/compiled_assets/scripts.js?39"></script>
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+
+    <style data-shopify>
+      @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?&hmac=0a2e92d6956b1312ef7d59f4850549a6e43a908ccf24df47f07b0b4c6da5837d") format("woff2"),
+       url("https://fonts.shopifycdn.com/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?&hmac=b9c5a10fbc7928e1a963472ba312c273b8be3a9845294066178386bf5c965c98") format("woff");
+}
+
+      @font-face {
+  font-family: Assistant;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?&hmac=4a26a065560c5b42e553d6a3ac6d6d1b8509ea32ff189d33eaa65dc7e528edb8") format("woff2"),
+       url("https://fonts.shopifycdn.com/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?&hmac=573ae1899b1dd4bab0e67a872e79a96f2f3fa7c1a41fe26400f32bb4f6af5b2f") format("woff");
+}
+
+      
+      
+      @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?&hmac=0a2e92d6956b1312ef7d59f4850549a6e43a908ccf24df47f07b0b4c6da5837d") format("woff2"),
+       url("https://fonts.shopifycdn.com/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?&hmac=b9c5a10fbc7928e1a963472ba312c273b8be3a9845294066178386bf5c965c98") format("woff");
+}
+
+
+      :root {
+        --font-body-family: Assistant, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: Assistant, sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.05;
+        --font-heading-scale: 1.0;
+
+        --color-base-text: 18, 18, 18;
+        --color-shadow: 18, 18, 18;
+        --color-base-background-1: 255, 255, 255;
+        --color-base-background-2: 243, 243, 243;
+        --color-base-solid-button-labels: 242, 91, 91;
+        --color-base-outline-button-labels: 18, 18, 18;
+        --color-base-accent-1: 18, 18, 18;
+        --color-base-accent-2: 51, 79, 180;
+        --payment-terms-background-color: #ffffff;
+
+        --gradient-base-background-1: #ffffff;
+        --gradient-base-background-2: #f3f3f3;
+        --gradient-base-accent-1: #121212;
+        --gradient-base-accent-2: #334fb4;
+
+        --media-padding: px;
+        --media-border-opacity: 0.15;
+        --media-border-width: 1px;
+        --media-radius: 0px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 0px;
+        --media-shadow-vertical-offset: -12px;
+        --media-shadow-blur-radius: 5px;
+        --media-shadow-visible: 0;
+
+        --page-width: 130rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 0.0rem;
+        --product-card-text-alignment: left;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.0;
+        --product-card-shadow-visible: 0;
+        --product-card-shadow-horizontal-offset: 0.0rem;
+        --product-card-shadow-vertical-offset: 0.4rem;
+        --product-card-shadow-blur-radius: 0.5rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 0.0rem;
+        --collection-card-text-alignment: left;
+        --collection-card-border-width: 0.0rem;
+        --collection-card-border-opacity: 0.1;
+        --collection-card-shadow-opacity: 0.0;
+        --collection-card-shadow-visible: 0;
+        --collection-card-shadow-horizontal-offset: 0.0rem;
+        --collection-card-shadow-vertical-offset: 0.4rem;
+        --collection-card-shadow-blur-radius: 0.5rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 0.0rem;
+        --blog-card-text-alignment: left;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.0;
+        --blog-card-shadow-visible: 0;
+        --blog-card-shadow-horizontal-offset: 0.0rem;
+        --blog-card-shadow-vertical-offset: 0.4rem;
+        --blog-card-shadow-blur-radius: 0.5rem;
+
+        --badge-corner-radius: 4.0rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 0.1;
+        --popup-corner-radius: 0px;
+        --popup-shadow-opacity: 0.0;
+        --popup-shadow-horizontal-offset: 0px;
+        --popup-shadow-vertical-offset: 4px;
+        --popup-shadow-blur-radius: 5px;
+
+        --drawer-border-width: 1px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 12px;
+        --spacing-sections-mobile: 12px;
+
+        --grid-desktop-vertical-spacing: 8px;
+        --grid-desktop-horizontal-spacing: 8px;
+        --grid-mobile-vertical-spacing: 4px;
+        --grid-mobile-horizontal-spacing: 4px;
+
+        --text-boxes-border-opacity: 0.1;
+        --text-boxes-border-width: 0px;
+        --text-boxes-radius: 0px;
+        --text-boxes-shadow-opacity: 0.0;
+        --text-boxes-shadow-visible: 0;
+        --text-boxes-shadow-horizontal-offset: 0px;
+        --text-boxes-shadow-vertical-offset: 4px;
+        --text-boxes-shadow-blur-radius: 5px;
+
+        --buttons-radius: 36px;
+        --buttons-radius-outset: 39px;
+        --buttons-border-width: 3px;
+        --buttons-border-opacity: 1.0;
+        --buttons-shadow-opacity: 1.0;
+        --buttons-shadow-visible: 1;
+        --buttons-shadow-horizontal-offset: 0px;
+        --buttons-shadow-vertical-offset: -8px;
+        --buttons-shadow-blur-radius: 15px;
+        --buttons-border-offset: 0.3px;
+
+        --inputs-radius: 0px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 0.55;
+        --inputs-shadow-opacity: 0.0;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 0px;
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 0px;
+
+        --variant-pills-radius: 40px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 0.55;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/base.css?v=106997162017984916431663784590" rel="stylesheet" type="text/css" media="all" />
+<link rel="preload" as="font" href="https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?&hmac=0a2e92d6956b1312ef7d59f4850549a6e43a908ccf24df47f07b0b4c6da5837d" type="font/woff2" crossorigin><link rel="preload" as="font" href="https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?&hmac=0a2e92d6956b1312ef7d59f4850549a6e43a908ccf24df47f07b0b4c6da5837d" type="font/woff2" crossorigin><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-predictive-search.css?v=83512081251802922551663784570" media="print" onload="this.media='all'"><script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    if (Shopify.designMode) {
+      document.documentElement.classList.add('shopify-design-mode');
+    }
+    </script>
+  <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 63192072379,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'BWP';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 63192072379,
+      theme_id: 132005134523,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.e695302c3cd17296c85e559451c496db44e32e17.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.e695302c3cd17296c85e559451c496db44e32e17.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.e695302c3cd17296c85e559451c496db44e32e17.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":63192072379,"isMerchantRequest":null,"themeId":132005134523,"themeCityHash":"7392149391013368946","contentLanguage":"en","currency":"BWP"},"isServerSideCookieWritingEnabled":true},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Dawn";
+  window.BOOMR.themeVersion = "7.0.0";
+  window.BOOMR.shopId = 63192072379;
+  window.BOOMR.themeId = 132005134523;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+<script id="web-pixels-manager-publish">
+  window.Shopify = window.Shopify || {};
+  window.Shopify.analytics = window.Shopify.analytics || {};
+  window.Shopify.analytics.replayQueue = [];
+  window.Shopify.analytics.publish = function publish(eventName, payload, options) {
+    window.Shopify.analytics.replayQueue.push([eventName, payload, options]);
+  }
+</script>
+<script id="web-pixels-manager-setup-esm" type="module">
+  import webPixelsManager from "https://cdn.shopify.com/shopifycloud/web-pixels-manager/0.0.163/esm/browser.js";
+const webPixelsManagerAPI = webPixelsManager.init({
+  shopId: 63192072379,
+  storefrontBaseUrl: "https://clatsoqual.myshopify.com",
+  cdnBaseUrl: "https://cdn.shopify.com",
+  surface: "storefront-renderer",
+  webPixelExtensionBaseUrl: "https://cdn.shopify.com",
+  webPixelsConfigList: [],
+  initData: {"customer":null,"cart":null,"productVariants":[],"checkout":null},
+});
+window.Shopify.analytics.replayQueue.forEach(function(event) {
+  webPixelsManagerAPI.publishCustomEvent(event[0], event[1], event[2]);
+});
+window.Shopify.analytics.replayQueue = [];
+window.Shopify.analytics.publish = webPixelsManagerAPI.publishCustomEvent;
+webPixelsManagerAPI.publish("page_viewed");
+
+</script>
+<script id="web-pixels-manager-setup-legacy" nomodule>
+  (function setup(initConfig, pageEvents, web_pixels_manager_asset_url) {
+  var script = document.createElement("script");
+  script.setAttribute("src", web_pixels_manager_asset_url);
+  script.setAttribute("async", true);
+  var head = document.getElementsByTagName("head")[0];
+  head.appendChild(script);
+  script.onload = function onload() {
+    var webPixelsManagerAPI = window.webPixelsManager.init(initConfig);
+    pageEvents(webPixelsManagerAPI);
+    window.Shopify.analytics.replayQueue.forEach(function(event) {
+      webPixelsManagerAPI.publishCustomEvent(event[0], event[1], event[2]);
+    });
+    window.Shopify.analytics.publish = webPixelsManagerAPI.publishCustomEvent;
+  };
+}
+)(
+  {
+    shopId: 63192072379,
+    storefrontBaseUrl: "https://clatsoqual.myshopify.com",
+    cdnBaseUrl: "https://cdn.shopify.com",
+    surface: "storefront-renderer",
+    webPixelExtensionBaseUrl: "https://cdn.shopify.com",
+    webPixelsConfigList: [],
+    initData: {"customer":null,"cart":null,"productVariants":[],"checkout":null},
+  },
+  function pageEvents(webPixelsManagerAPI) {
+    webPixelsManagerAPI.publish("page_viewed");
+  },
+  "https://cdn.shopify.com/shopifycloud/web-pixels-manager/0.0.163/iife/browser.js"
+);
+
+</script>
+</head>
+
+  <body class="gradient">
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Skip to content
+    </a><div id="shopify-section-announcement-bar" class="shopify-section"><div class="announcement-bar color-inverse gradient" role="region" aria-label="Announcement" ><div class="page-width">
+                <p class="announcement-bar__message center h5">
+                  Welcome to our store
+</p>
+              </div></div>
+</div>
+    <div id="shopify-section-header" class="shopify-section section-header"><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-menu.css?v=151968516119678728991663784578" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-search.css?v=96455689198851321781663784564" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-menu-drawer.css?v=182311192829367774911663784568" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-cart-notification.css?v=183358051719344305851663784561" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-cart-items.css?v=23917223812499722491663784590" media="print" onload="this.media='all'"><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-price.css?v=65402837579211014041663784567" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-loading-overlay.css?v=167310470843593579841663784594" media="print" onload="this.media='all'"><noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-menu.css?v=151968516119678728991663784578" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-search.css?v=96455689198851321781663784564" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-menu-drawer.css?v=182311192829367774911663784568" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-cart-notification.css?v=183358051719344305851663784561" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-cart-items.css?v=23917223812499722491663784590" rel="stylesheet" type="text/css" media="all" /></noscript>
+
+<style>
+  header-drawer {
+    justify-self: start;
+    margin-left: -1.2rem;
+  }
+
+  .header__heading-logo {
+    max-width: 80px;
+  }
+
+  @media screen and (min-width: 990px) {
+    header-drawer {
+      display: none;
+    }
+  }
+
+  .menu-drawer-container {
+    display: flex;
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu--inline {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  summary.list-menu__item {
+    padding-right: 2.7rem;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: calc(1 + 0.8 / var(--font-body-scale));
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 0.5rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style><style data-shopify>.header {
+    padding-top: 4px;
+    padding-bottom: 16px;
+  }
+
+  .section-header {
+    margin-bottom: 0px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-header {
+      margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .header {
+      padding-top: 8px;
+      padding-bottom: 32px;
+    }
+  }</style><script src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/details-disclosure.js?v=153497636716254413831663784586" defer="defer"></script>
+<script src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/details-modal.js?v=4511761896672669691663784585" defer="defer"></script>
+<script src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/cart-notification.js?v=160453272920806432391663784566" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
+  </symbol>
+
+  <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+  </symbol>
+</svg>
+<sticky-header class="header-wrapper color-background-1 gradient header-wrapper--border-bottom">
+  <header class="header header--middle-left header--mobile-center page-width header--has-menu"><header-drawer data-breakpoint="tablet">
+        <details id="Details-menu-drawer-container" class="menu-drawer-container">
+          <summary class="header__icon header__icon--menu header__icon--summary link focus-inset" aria-label="Menu">
+            <span>
+              <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" fill="none" viewBox="0 0 18 16">
+  <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor">
+</svg>
+
+              <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+            </span>
+          </summary>
+          <div id="menu-drawer" class="gradient menu-drawer motion-reduce" tabindex="-1">
+            <div class="menu-drawer__inner-container">
+              <div class="menu-drawer__navigation-container">
+                <nav class="menu-drawer__navigation">
+                  <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a href="/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset menu-drawer__menu-item--active" aria-current="page">
+                            Home
+                          </a></li><li><a href="/collections/all" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                            Catalog
+                          </a></li><li><a href="/pages/contact" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                            Contact
+                          </a></li></ul>
+                </nav>
+                <div class="menu-drawer__utility-links"><ul class="list list-social list-unstyled" role="list"><li class="list-social__item">
+                        <a href="https://www.facebook.com/clatsoqualbnb" class="list-social__link link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 18 18">
+  <path fill="currentColor" d="M16.42.61c.27 0 .5.1.69.28.19.2.28.42.28.7v15.44c0 .27-.1.5-.28.69a.94.94 0 01-.7.28h-4.39v-6.7h2.25l.31-2.65h-2.56v-1.7c0-.4.1-.72.28-.93.18-.2.5-.32 1-.32h1.37V3.35c-.6-.06-1.27-.1-2.01-.1-1.01 0-1.83.3-2.45.9-.62.6-.93 1.44-.93 2.53v1.97H7.04v2.65h2.24V18H.98c-.28 0-.5-.1-.7-.28a.94.94 0 01-.28-.7V1.59c0-.27.1-.5.28-.69a.94.94 0 01.7-.28h15.44z">
+</svg>
+<span class="visually-hidden">Facebook</span>
+                        </a>
+                      </li><li class="list-social__item">
+                        <a href="https://www.youtube.com/channel/UCnIvqRaMzUzXg7ixCJGUJQw" class="list-social__link link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-youtube" viewBox="0 0 100 70">
+  <path d="M98 11c2 7.7 2 24 2 24s0 16.3-2 24a12.5 12.5 0 01-9 9c-7.7 2-39 2-39 2s-31.3 0-39-2a12.5 12.5 0 01-9-9c-2-7.7-2-24-2-24s0-16.3 2-24c1.2-4.4 4.6-7.8 9-9 7.7-2 39-2 39-2s31.3 0 39 2c4.4 1.2 7.8 4.6 9 9zM40 50l26-15-26-15v30z" fill="currentColor">
+</svg>
+<span class="visually-hidden">YouTube</span>
+                        </a>
+                      </li></ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </details>
+      </header-drawer><h1 class="header__heading"><a href="/" class="header__heading-link link link--text focus-inset"><img src="//cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?v=1663787451" alt="clatsoqual" srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?v=1663787451&amp;width=50 50w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?v=1663787451&amp;width=100 100w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?v=1663787451&amp;width=150 150w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?v=1663787451&amp;width=200 200w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?v=1663787451&amp;width=250 250w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/dss.png?v=1663787451&amp;width=300 300w" width="80" height="24.4141689373297" class="header__heading-logo">
+</a></h1><nav class="header__inline-menu">
+          <ul class="list-menu list-menu--inline" role="list"><li><a href="/" class="header__menu-item list-menu__item link link--text focus-inset" aria-current="page">
+                    <span class="header__active-menu-item">Home</span>
+                  </a></li><li><a href="/collections/all" class="header__menu-item list-menu__item link link--text focus-inset">
+                    <span>Catalog</span>
+                  </a></li><li><a href="/pages/contact" class="header__menu-item list-menu__item link link--text focus-inset">
+                    <span>Contact</span>
+                  </a></li></ul>
+        </nav><div class="header__icons">
+      <details-modal class="header__search">
+        <details>
+          <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search">
+            <span>
+              <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false" role="presentation">
+                <use href="#icon-search">
+              </svg>
+              <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false" role="presentation">
+                <use href="#icon-close">
+              </svg>
+            </span>
+          </summary>
+          <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
+            <div class="modal-overlay"></div>
+            <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search-modal__form">
+                  <div class="field">
+                    <input class="search__input field__input"
+                      id="Search-In-Modal"
+                      type="search"
+                      name="q"
+                      value=""
+                      placeholder="Search"role="combobox"
+                        aria-expanded="false"
+                        aria-owns="predictive-search-results-list"
+                        aria-controls="predictive-search-results-list"
+                        aria-haspopup="listbox"
+                        aria-autocomplete="list"
+                        autocorrect="off"
+                        autocomplete="off"
+                        autocapitalize="off"
+                        spellcheck="false">
+                    <label class="field__label" for="Search-In-Modal">Search</label>
+                    <input type="hidden" name="options[prefix]" value="last">
+                    <button class="search__button field__button" aria-label="Search">
+                      <svg class="icon icon-search" aria-hidden="true" focusable="false" role="presentation">
+                        <use href="#icon-search">
+                      </svg>
+                    </button>
+                  </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
+                      <div class="predictive-search__loading-state">
+                        <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                          <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                        </svg>
+                      </div>
+                    </div>
+
+                    <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
+                <svg class="icon icon-close" aria-hidden="true" focusable="false" role="presentation">
+                  <use href="#icon-close">
+                </svg>
+              </button>
+            </div>
+          </div>
+        </details>
+      </details-modal><a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg class="icon icon-cart-empty" aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/>
+</svg>
+<span class="visually-hidden">Cart</span></a>
+    </div>
+  </header>
+</sticky-header>
+
+<cart-notification>
+  <div class="cart-notification-wrapper page-width">
+    <div id="cart-notification" class="cart-notification focus-inset color-background-1 gradient" aria-modal="true" aria-label="Item added to your cart" role="dialog" tabindex="-1">
+      <div class="cart-notification__header">
+        <h2 class="cart-notification__heading caption-large text-body"><svg class="icon icon-checkmark color-foreground-outline-button" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 9" fill="none">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"/>
+</svg>
+Item added to your cart</h2>
+        <button type="button" class="cart-notification__close modal__close-button link link--text focus-inset" aria-label="Close">
+          <svg class="icon icon-close" aria-hidden="true" focusable="false"><use href="#icon-close"></svg>
+        </button>
+      </div>
+      <div id="cart-notification-product" class="cart-notification-product"></div>
+      <div class="cart-notification__links">
+        <a href="/cart" id="cart-notification-button" class="button button--secondary button--full-width"></a>
+        <form action="/cart" method="post" id="cart-notification-form">
+          <button class="button button--primary button--full-width" name="checkout">Check out</button>
+        </form>
+        <button type="button" class="link button-label">Continue shopping</button>
+      </div>
+    </div>
+  </div>
+</cart-notification>
+<style data-shopify>
+  .cart-notification {
+     display: none;
+  }
+</style>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "clatsoqual",
+    
+      "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/9207\/2379\/files\/dss.png?v=1663787451\u0026width=367",
+    
+    "sameAs": [
+      "",
+      "https:\/\/www.facebook.com\/clatsoqualbnb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "https:\/\/www.youtube.com\/channel\/UCnIvqRaMzUzXg7ixCJGUJQw",
+      ""
+    ],
+    "url": "https:\/\/clatsoqual.myshopify.com"
+  }
+</script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "clatsoqual",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/clatsoqual.myshopify.com\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/clatsoqual.myshopify.com"
+    }
+  </script>
+</div>
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <section id="shopify-section-template--15912641298619__image_banner" class="shopify-section section"><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/section-image-banner.css?v=170916557215809668651663784569" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>#Banner-template--15912641298619__image_banner::after {
+    opacity: 0.4;
+  }</style><div id="Banner-template--15912641298619__image_banner" class="banner banner--content-align-center banner--content-align-mobile-center banner--large banner--desktop-transparent"><div class="banner__media media"><img src="//cdn.shopify.com/s/files/1/0631/9207/2379/files/office-925806.jpg?v=1663846884&amp;width=1500" srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/files/office-925806.jpg?v=1663846884&amp;width=375 375w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/office-925806.jpg?v=1663846884&amp;width=550 550w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/office-925806.jpg?v=1663846884&amp;width=750 750w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/office-925806.jpg?v=1663846884&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/office-925806.jpg?v=1663846884&amp;width=1500 1500w" width="4872" height="3248.0" loading="lazy" sizes="100vw">
+    </div><div class="banner__content banner__content--bottom-center page-width">
+    <div class="banner__box content-container content-container--full-width-mobile color-background-1 gradient"><h2 class="banner__heading h1" >
+              <span>OH! HEY,  WELCOME TO OUR STORE</span>
+            </h2><div class="banner__text body" >
+              <span>We are glad you&#39;ve decided to shop with us. You can choose to buy from all types of gadgets from PCs, Speakers, Desktop to small hand handled smart phones, pick yours and enjoy its features.</span>
+            </div><div class="banner__buttons" ><a role="link" aria-disabled="true" class="button button--primary">BUY NOW</a></div></div>
+  </div>
+</div>
+
+
+</section><section id="shopify-section-template--15912641298619__rich_text" class="shopify-section section"><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rte.css?v=69919436638515329781663784588" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/section-rich-text.css?v=155250126305810049721663784580" media="print" onload="this.media='all'">
+
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rte.css?v=69919436638515329781663784588" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/section-rich-text.css?v=155250126305810049721663784580" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.section-template--15912641298619__rich_text-padding {
+    padding-top: 36px;
+    padding-bottom: 30px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--15912641298619__rich_text-padding {
+      padding-top: 48px;
+      padding-bottom: 40px;
+    }
+  }</style><div class="isolate">
+  <div class="rich-text content-container color-inverse gradient rich-text--full-width content-container--full-width section-template--15912641298619__rich_text-padding">
+    <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+      <div class="rich-text__blocks center"><h2 class="rich-text__heading rte h2" >
+                <span>SCROLL DOWN TO PRODUCTS</span>
+              </h2><div class="rich-text__text rte" >
+                <p>1. (SamSung Galaxy A20) 2GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM.Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass</p><p></p><p>2. (Lenovo ideapad 320) Graphics processor:NVIDIA GeForce MX150 / Intel UHD Graphics 620Resolution:1920, 1080Screen size:15.6 inPanel type:TNRam size:8 GBTechnology:DDR4 SDRAMCpu model:Intel Core i5 (8th Gen) 8250U</p>
+              </div></div>
+    </div>
+  </div>
+</div>
+
+
+</section><section id="shopify-section-template--15912641298619__featured_collection" class="shopify-section section"><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-card.css?v=13116108056750117421663784586" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-price.css?v=65402837579211014041663784567" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-slider.css?v=111384418465749404671663784569" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/template-collection.css?v=145944865380958730931663784587" media="print" onload="this.media='all'"><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/quick-add.css?v=33503823355406569531663784569" media="print" onload="this.media='all'">
+  <script src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/quick-add.js?v=107437208278634168461663784562" defer="defer"></script>
+  <script src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/product-form.js?v=24702737604959294451663784562" defer="defer"></script><noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-slider.css?v=111384418465749404671663784569" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/template-collection.css?v=145944865380958730931663784587" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.section-template--15912641298619__featured_collection-padding {
+    padding-top: 36px;
+    padding-bottom: 21px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--15912641298619__featured_collection-padding {
+      padding-top: 48px;
+      padding-bottom: 28px;
+    }
+  }</style><div class="color-inverse isolate gradient">
+  <div class="collection section-template--15912641298619__featured_collection-padding collection--full-width">
+      <div class="collection__title title-wrapper title-wrapper--no-top-margin page-width title-wrapper--self-padded-tablet-down collection__title--desktop-slider"><h2 class="title h0">Our products</h2><div class="collection__description subtitle"></div></div>
+
+    <slider-component class="slider-mobile-gutter slider-component-full-width slider-component-desktop">
+      <ul id="Slider-template--15912641298619__featured_collection" class="grid product-grid contains-card contains-card--product grid--4-col-desktop grid--2-col-tablet-down slider slider--desktop slider--tablet grid--peek" role="list" aria-label="Slider"><li id="Slide-template--15912641298619__featured_collection-1" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 100.0%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 100.0%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Ha683228d793543cba7ba23abb1ae0cfch.jpg_960x960_0178269c-4c17-4d0f-8a6d-3a4cb2cca401.jpg?v=1663954965&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Ha683228d793543cba7ba23abb1ae0cfch.jpg_960x960_0178269c-4c17-4d0f-8a6d-3a4cb2cca401.jpg?v=1663954965&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Ha683228d793543cba7ba23abb1ae0cfch.jpg_960x960_0178269c-4c17-4d0f-8a6d-3a4cb2cca401.jpg?v=1663954965&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Ha683228d793543cba7ba23abb1ae0cfch.jpg_960x960_0178269c-4c17-4d0f-8a6d-3a4cb2cca401.jpg?v=1663954965&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Ha683228d793543cba7ba23abb1ae0cfch.jpg_960x960_0178269c-4c17-4d0f-8a6d-3a4cb2cca401.jpg?v=1663954965 800w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Ha683228d793543cba7ba23abb1ae0cfch.jpg_960x960_0178269c-4c17-4d0f-8a6d-3a4cb2cca401.jpg?v=1663954965&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Built-in Microphone Speakers for OutDoors"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="800"
+                height="800"
+              >
+              
+<img
+                  srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H601ea54556c24e178f2e330ab399cc60X.jpg_960x960_b2ec7617-30e1-4945-9057-540f358e7d8e.jpg?v=1663954964&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H601ea54556c24e178f2e330ab399cc60X.jpg_960x960_b2ec7617-30e1-4945-9057-540f358e7d8e.jpg?v=1663954964&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H601ea54556c24e178f2e330ab399cc60X.jpg_960x960_b2ec7617-30e1-4945-9057-540f358e7d8e.jpg?v=1663954964&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H601ea54556c24e178f2e330ab399cc60X.jpg_960x960_b2ec7617-30e1-4945-9057-540f358e7d8e.jpg?v=1663954964&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H601ea54556c24e178f2e330ab399cc60X.jpg_960x960_b2ec7617-30e1-4945-9057-540f358e7d8e.jpg?v=1663954964 800w
+                  "
+                  src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H601ea54556c24e178f2e330ab399cc60X.jpg_960x960_b2ec7617-30e1-4945-9057-540f358e7d8e.jpg?v=1663954964&width=533"
+                  sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="800"
+                  height="800"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/built-in-microphone-speakers-for-outdoors"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667977093307"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667977093307 NoMediaStandardBadge-template--15912641298619__featured_collection-7667977093307"
+              >
+                Built-in Microphone Speakers for OutDoors
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667977093307"
+            
+          >
+            <a
+              href="/products/built-in-microphone-speakers-for-outdoors"
+              id="CardLink-template--15912641298619__featured_collection-7667977093307"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667977093307 Badge-template--15912641298619__featured_collection-7667977093307"
+            >
+              Built-in Microphone Speakers for OutDoors
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P400.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P400.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><modal-opener data-modal="#QuickAdd-7667977093307">
+                <button
+                  id="quick-add-template--15912641298619__featured_collection7667977093307-submit"
+                  type="submit"
+                  name="add"
+                  class="quick-add__submit button button--full-width button--secondary"
+                  aria-haspopup="dialog"
+                  aria-labelledby="quick-add-template--15912641298619__featured_collection7667977093307-submit title-template--15912641298619__featured_collection-7667977093307"
+                  data-product-url="/products/built-in-microphone-speakers-for-outdoors"
+                >
+                  Choose options
+                  <div class="loading-overlay__spinner hidden">
+                    <svg
+                      aria-hidden="true"
+                      focusable="false"
+                      role="presentation"
+                      class="spinner"
+                      viewBox="0 0 66 66"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                    </svg>
+                  </div>
+                </button>
+              </modal-opener>
+              <quick-add-modal id="QuickAdd-7667977093307" class="quick-add-modal">
+                <div
+                  role="dialog"
+                  aria-label="Choose options for Built-in Microphone Speakers for OutDoors"
+                  aria-modal="true"
+                  class="quick-add-modal__content global-settings-popup"
+                  tabindex="-1"
+                >
+                  <button
+                    id="ModalClose-7667977093307"
+                    type="button"
+                    class="quick-add-modal__toggle"
+                    aria-label="Close"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+                  </button>
+                  <div id="QuickAddInfo-7667977093307" class="quick-add-modal__content-info"></div>
+                </div>
+              </quick-add-modal></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li id="Slide-template--15912641298619__featured_collection-2" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 99.26666666666667%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 99.26666666666667%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800&width=940 940w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800&width=1066 1066w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800 1500w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/61-z3HzOzKL._AC_SL1500.jpg?v=1663945800&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="iPhone 14 Pro Max Case"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1500"
+                height="1489"
+              >
+              
+</div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/iphone-14-pro-max-case"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667810205883"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667810205883 NoMediaStandardBadge-template--15912641298619__featured_collection-7667810205883"
+              >
+                iPhone 14 Pro Max Case
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667810205883"
+            
+          >
+            <a
+              href="/products/iphone-14-pro-max-case"
+              id="CardLink-template--15912641298619__featured_collection-7667810205883"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667810205883 Badge-template--15912641298619__featured_collection-7667810205883"
+            >
+              iPhone 14 Pro Max Case
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P500.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P500.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><product-form><form method="post" action="/cart/add" id="quick-add-template--15912641298619__featured_collection7667810205883" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+                    type="hidden"
+                    name="id"
+                    value="43445458403515"
+                    disabled
+                  >
+                  <button
+                    id="quick-add-template--15912641298619__featured_collection7667810205883-submit"
+                    type="submit"
+                    name="add"
+                    class="quick-add__submit button button--full-width button--secondary"
+                    aria-haspopup="dialog"
+                    aria-labelledby="quick-add-template--15912641298619__featured_collection7667810205883-submit title-template--15912641298619__featured_collection-7667810205883"
+                    aria-live="polite"
+                    data-sold-out-message="true"
+                    
+                  >
+                    <span>Add to cart
+</span>
+                    <span class="sold-out-message hidden">
+                      Sold out
+                    </span>
+                    <div class="loading-overlay__spinner hidden">
+                      <svg
+                        aria-hidden="true"
+                        focusable="false"
+                        role="presentation"
+                        class="spinner"
+                        viewBox="0 0 66 66"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                      </svg>
+                    </div>
+                  </button></form></product-form></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li id="Slide-template--15912641298619__featured_collection-3" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 100.0%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 100.0%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H5fedf7047bf44ae4a559b9c47b8027d0E.jpg_960x960_e0fed9a3-79f3-4f2e-a74f-2ab2d0a8d829.jpg?v=1663956346&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H5fedf7047bf44ae4a559b9c47b8027d0E.jpg_960x960_e0fed9a3-79f3-4f2e-a74f-2ab2d0a8d829.jpg?v=1663956346&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H5fedf7047bf44ae4a559b9c47b8027d0E.jpg_960x960_e0fed9a3-79f3-4f2e-a74f-2ab2d0a8d829.jpg?v=1663956346&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H5fedf7047bf44ae4a559b9c47b8027d0E.jpg_960x960_e0fed9a3-79f3-4f2e-a74f-2ab2d0a8d829.jpg?v=1663956346&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H5fedf7047bf44ae4a559b9c47b8027d0E.jpg_960x960_e0fed9a3-79f3-4f2e-a74f-2ab2d0a8d829.jpg?v=1663956346 750w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H5fedf7047bf44ae4a559b9c47b8027d0E.jpg_960x960_e0fed9a3-79f3-4f2e-a74f-2ab2d0a8d829.jpg?v=1663956346&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Laptop For Students Laptops 8Gb Ram"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="750"
+                height="750"
+              >
+              
+<img
+                  srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H16923cfc1d044209984b9aee2f1dd7f7b.jpg_960x960_cda0a39e-ec05-4a6b-97a5-9dbff8eab1e6.jpg?v=1663956344&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H16923cfc1d044209984b9aee2f1dd7f7b.jpg_960x960_cda0a39e-ec05-4a6b-97a5-9dbff8eab1e6.jpg?v=1663956344&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H16923cfc1d044209984b9aee2f1dd7f7b.jpg_960x960_cda0a39e-ec05-4a6b-97a5-9dbff8eab1e6.jpg?v=1663956344&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H16923cfc1d044209984b9aee2f1dd7f7b.jpg_960x960_cda0a39e-ec05-4a6b-97a5-9dbff8eab1e6.jpg?v=1663956344&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H16923cfc1d044209984b9aee2f1dd7f7b.jpg_960x960_cda0a39e-ec05-4a6b-97a5-9dbff8eab1e6.jpg?v=1663956344 750w
+                  "
+                  src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H16923cfc1d044209984b9aee2f1dd7f7b.jpg_960x960_cda0a39e-ec05-4a6b-97a5-9dbff8eab1e6.jpg?v=1663956344&width=533"
+                  sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="750"
+                  height="750"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/laptop-for-students-laptops-8gb-ram"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667993772219"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667993772219 NoMediaStandardBadge-template--15912641298619__featured_collection-7667993772219"
+              >
+                Laptop For Students Laptops 8Gb Ram
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667993772219"
+            
+          >
+            <a
+              href="/products/laptop-for-students-laptops-8gb-ram"
+              id="CardLink-template--15912641298619__featured_collection-7667993772219"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667993772219 Badge-template--15912641298619__featured_collection-7667993772219"
+            >
+              Laptop For Students Laptops 8Gb Ram
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P3,500.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P3,500.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><modal-opener data-modal="#QuickAdd-7667993772219">
+                <button
+                  id="quick-add-template--15912641298619__featured_collection7667993772219-submit"
+                  type="submit"
+                  name="add"
+                  class="quick-add__submit button button--full-width button--secondary"
+                  aria-haspopup="dialog"
+                  aria-labelledby="quick-add-template--15912641298619__featured_collection7667993772219-submit title-template--15912641298619__featured_collection-7667993772219"
+                  data-product-url="/products/laptop-for-students-laptops-8gb-ram"
+                >
+                  Choose options
+                  <div class="loading-overlay__spinner hidden">
+                    <svg
+                      aria-hidden="true"
+                      focusable="false"
+                      role="presentation"
+                      class="spinner"
+                      viewBox="0 0 66 66"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                    </svg>
+                  </div>
+                </button>
+              </modal-opener>
+              <quick-add-modal id="QuickAdd-7667993772219" class="quick-add-modal">
+                <div
+                  role="dialog"
+                  aria-label="Choose options for Laptop For Students Laptops 8Gb Ram"
+                  aria-modal="true"
+                  class="quick-add-modal__content global-settings-popup"
+                  tabindex="-1"
+                >
+                  <button
+                    id="ModalClose-7667993772219"
+                    type="button"
+                    class="quick-add-modal__toggle"
+                    aria-label="Close"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+                  </button>
+                  <div id="QuickAddInfo-7667993772219" class="quick-add-modal__content-info"></div>
+                </div>
+              </quick-add-modal></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li id="Slide-template--15912641298619__featured_collection-4" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 63.4765625%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 63.4765625%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327&width=940 940w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327&width=1066 1066w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327 2048w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Samsung-Galaxy-A2-Core-Kenya.jpg?v=1663876327&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Samsung A2 Core"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="2048"
+                height="1300"
+              >
+              
+</div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/samsung-a2-core"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667175030971"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667175030971 NoMediaStandardBadge-template--15912641298619__featured_collection-7667175030971"
+              >
+                Samsung A2 Core
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667175030971"
+            
+          >
+            <a
+              href="/products/samsung-a2-core"
+              id="CardLink-template--15912641298619__featured_collection-7667175030971"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667175030971 Badge-template--15912641298619__featured_collection-7667175030971"
+            >
+              Samsung A2 Core
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P1,800.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P1,800.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><product-form><form method="post" action="/cart/add" id="quick-add-template--15912641298619__featured_collection7667175030971" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+                    type="hidden"
+                    name="id"
+                    value="43438673199291"
+                    disabled
+                  >
+                  <button
+                    id="quick-add-template--15912641298619__featured_collection7667175030971-submit"
+                    type="submit"
+                    name="add"
+                    class="quick-add__submit button button--full-width button--secondary"
+                    aria-haspopup="dialog"
+                    aria-labelledby="quick-add-template--15912641298619__featured_collection7667175030971-submit title-template--15912641298619__featured_collection-7667175030971"
+                    aria-live="polite"
+                    data-sold-out-message="true"
+                    
+                  >
+                    <span>Add to cart
+</span>
+                    <span class="sold-out-message hidden">
+                      Sold out
+                    </span>
+                    <div class="loading-overlay__spinner hidden">
+                      <svg
+                        aria-hidden="true"
+                        focusable="false"
+                        role="presentation"
+                        class="spinner"
+                        viewBox="0 0 66 66"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                      </svg>
+                    </div>
+                  </button></form></product-form></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li id="Slide-template--15912641298619__featured_collection-5" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 171.1340206185567%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 171.1340206185567%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/71MO87VZ48L._AC_SX679.jpg?v=1663946178&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/71MO87VZ48L._AC_SX679.jpg?v=1663946178&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/71MO87VZ48L._AC_SX679.jpg?v=1663946178&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/71MO87VZ48L._AC_SX679.jpg?v=1663946178 679w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/71MO87VZ48L._AC_SX679.jpg?v=1663946178&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Samsung Galaxy s22 Ultra Case"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="679"
+                height="1162"
+              >
+              
+</div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/samsung-galaxy-s22-ultra-case"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667815350459"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667815350459 NoMediaStandardBadge-template--15912641298619__featured_collection-7667815350459"
+              >
+                Samsung Galaxy s22 Ultra Case
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667815350459"
+            
+          >
+            <a
+              href="/products/samsung-galaxy-s22-ultra-case"
+              id="CardLink-template--15912641298619__featured_collection-7667815350459"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667815350459 Badge-template--15912641298619__featured_collection-7667815350459"
+            >
+              Samsung Galaxy s22 Ultra Case
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P700.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P700.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><product-form><form method="post" action="/cart/add" id="quick-add-template--15912641298619__featured_collection7667815350459" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+                    type="hidden"
+                    name="id"
+                    value="43445556707515"
+                    disabled
+                  >
+                  <button
+                    id="quick-add-template--15912641298619__featured_collection7667815350459-submit"
+                    type="submit"
+                    name="add"
+                    class="quick-add__submit button button--full-width button--secondary"
+                    aria-haspopup="dialog"
+                    aria-labelledby="quick-add-template--15912641298619__featured_collection7667815350459-submit title-template--15912641298619__featured_collection-7667815350459"
+                    aria-live="polite"
+                    data-sold-out-message="true"
+                    
+                  >
+                    <span>Add to cart
+</span>
+                    <span class="sold-out-message hidden">
+                      Sold out
+                    </span>
+                    <div class="loading-overlay__spinner hidden">
+                      <svg
+                        aria-hidden="true"
+                        focusable="false"
+                        role="presentation"
+                        class="spinner"
+                        viewBox="0 0 66 66"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                      </svg>
+                    </div>
+                  </button></form></product-form></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li id="Slide-template--15912641298619__featured_collection-6" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 100.0%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 100.0%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/91ahxhtQN2L._AC_SX679.jpg?v=1663946620&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/91ahxhtQN2L._AC_SX679.jpg?v=1663946620&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/91ahxhtQN2L._AC_SX679.jpg?v=1663946620&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/91ahxhtQN2L._AC_SX679.jpg?v=1663946620 679w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/91ahxhtQN2L._AC_SX679.jpg?v=1663946620&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Samsung Galaxy s9 plus"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="679"
+                height="679"
+              >
+              
+<img
+                  srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/81egLUrPTeL._AC_SX679.jpg?v=1663946620&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/81egLUrPTeL._AC_SX679.jpg?v=1663946620&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/81egLUrPTeL._AC_SX679.jpg?v=1663946620&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/81egLUrPTeL._AC_SX679.jpg?v=1663946620 679w
+                  "
+                  src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/81egLUrPTeL._AC_SX679.jpg?v=1663946620&width=533"
+                  sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="679"
+                  height="1390"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/samsung-galaxy-s9-plus"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667819937979"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667819937979 NoMediaStandardBadge-template--15912641298619__featured_collection-7667819937979"
+              >
+                Samsung Galaxy s9 plus
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667819937979"
+            
+          >
+            <a
+              href="/products/samsung-galaxy-s9-plus"
+              id="CardLink-template--15912641298619__featured_collection-7667819937979"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667819937979 Badge-template--15912641298619__featured_collection-7667819937979"
+            >
+              Samsung Galaxy s9 plus
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P650.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P650.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><modal-opener data-modal="#QuickAdd-7667819937979">
+                <button
+                  id="quick-add-template--15912641298619__featured_collection7667819937979-submit"
+                  type="submit"
+                  name="add"
+                  class="quick-add__submit button button--full-width button--secondary"
+                  aria-haspopup="dialog"
+                  aria-labelledby="quick-add-template--15912641298619__featured_collection7667819937979-submit title-template--15912641298619__featured_collection-7667819937979"
+                  data-product-url="/products/samsung-galaxy-s9-plus"
+                >
+                  Choose options
+                  <div class="loading-overlay__spinner hidden">
+                    <svg
+                      aria-hidden="true"
+                      focusable="false"
+                      role="presentation"
+                      class="spinner"
+                      viewBox="0 0 66 66"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                    </svg>
+                  </div>
+                </button>
+              </modal-opener>
+              <quick-add-modal id="QuickAdd-7667819937979" class="quick-add-modal">
+                <div
+                  role="dialog"
+                  aria-label="Choose options for Samsung Galaxy s9 plus"
+                  aria-modal="true"
+                  class="quick-add-modal__content global-settings-popup"
+                  tabindex="-1"
+                >
+                  <button
+                    id="ModalClose-7667819937979"
+                    type="button"
+                    class="quick-add-modal__toggle"
+                    aria-label="Close"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+                  </button>
+                  <div id="QuickAddInfo-7667819937979" class="quick-add-modal__content-info"></div>
+                </div>
+              </quick-add-modal></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li id="Slide-template--15912641298619__featured_collection-7" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 100.0%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 100.0%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hbcb3fed80ece47d7b977ef9517991defM.jpg_960x960_6251f4a9-1ccc-4f03-a900-9c8587d94cd5.jpg?v=1663955571&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hbcb3fed80ece47d7b977ef9517991defM.jpg_960x960_6251f4a9-1ccc-4f03-a900-9c8587d94cd5.jpg?v=1663955571&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hbcb3fed80ece47d7b977ef9517991defM.jpg_960x960_6251f4a9-1ccc-4f03-a900-9c8587d94cd5.jpg?v=1663955571&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hbcb3fed80ece47d7b977ef9517991defM.jpg_960x960_6251f4a9-1ccc-4f03-a900-9c8587d94cd5.jpg?v=1663955571&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hbcb3fed80ece47d7b977ef9517991defM.jpg_960x960_6251f4a9-1ccc-4f03-a900-9c8587d94cd5.jpg?v=1663955571&width=940 940w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hbcb3fed80ece47d7b977ef9517991defM.jpg_960x960_6251f4a9-1ccc-4f03-a900-9c8587d94cd5.jpg?v=1663955571 960w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hbcb3fed80ece47d7b977ef9517991defM.jpg_960x960_6251f4a9-1ccc-4f03-a900-9c8587d94cd5.jpg?v=1663955571&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Smartphone android 9.0 16GB"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="960"
+                height="960"
+              >
+              
+<img
+                  srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hb439f5e9788f403fac4b82e1b5e0fa1c6.jpg_960x960_54c221c7-9368-4411-821e-221928b98ccf.jpg?v=1663955571&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hb439f5e9788f403fac4b82e1b5e0fa1c6.jpg_960x960_54c221c7-9368-4411-821e-221928b98ccf.jpg?v=1663955571&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hb439f5e9788f403fac4b82e1b5e0fa1c6.jpg_960x960_54c221c7-9368-4411-821e-221928b98ccf.jpg?v=1663955571&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hb439f5e9788f403fac4b82e1b5e0fa1c6.jpg_960x960_54c221c7-9368-4411-821e-221928b98ccf.jpg?v=1663955571&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hb439f5e9788f403fac4b82e1b5e0fa1c6.jpg_960x960_54c221c7-9368-4411-821e-221928b98ccf.jpg?v=1663955571&width=940 940w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hb439f5e9788f403fac4b82e1b5e0fa1c6.jpg_960x960_54c221c7-9368-4411-821e-221928b98ccf.jpg?v=1663955571 960w
+                  "
+                  src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hb439f5e9788f403fac4b82e1b5e0fa1c6.jpg_960x960_54c221c7-9368-4411-821e-221928b98ccf.jpg?v=1663955571&width=533"
+                  sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="960"
+                  height="960"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/smartphone-android-9-0-16gb"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667985252539"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667985252539 NoMediaStandardBadge-template--15912641298619__featured_collection-7667985252539"
+              >
+                Smartphone android 9.0 16GB
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667985252539"
+            
+          >
+            <a
+              href="/products/smartphone-android-9-0-16gb"
+              id="CardLink-template--15912641298619__featured_collection-7667985252539"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667985252539 Badge-template--15912641298619__featured_collection-7667985252539"
+            >
+              Smartphone android 9.0 16GB
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P1,000.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P1,000.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><product-form><form method="post" action="/cart/add" id="quick-add-template--15912641298619__featured_collection7667985252539" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+                    type="hidden"
+                    name="id"
+                    value="43446287073467"
+                    disabled
+                  >
+                  <button
+                    id="quick-add-template--15912641298619__featured_collection7667985252539-submit"
+                    type="submit"
+                    name="add"
+                    class="quick-add__submit button button--full-width button--secondary"
+                    aria-haspopup="dialog"
+                    aria-labelledby="quick-add-template--15912641298619__featured_collection7667985252539-submit title-template--15912641298619__featured_collection-7667985252539"
+                    aria-live="polite"
+                    data-sold-out-message="true"
+                    
+                  >
+                    <span>Add to cart
+</span>
+                    <span class="sold-out-message hidden">
+                      Sold out
+                    </span>
+                    <div class="loading-overlay__spinner hidden">
+                      <svg
+                        aria-hidden="true"
+                        focusable="false"
+                        role="presentation"
+                        class="spinner"
+                        viewBox="0 0 66 66"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                      </svg>
+                    </div>
+                  </button></form></product-form></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li><li id="Slide-template--15912641298619__featured_collection-8" class="grid__item slider__slide">
+            
+
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rating.css?v=24573085263941240431663784583" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card
+        card--card
+         card--media
+         color-background-2 gradient
+        
+        
+        
+      "
+      style="--ratio-percent: 100.0%;"
+    >
+      <div
+        class="card__inner  ratio"
+        style="--ratio-percent: 100.0%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H08f788dd2f664db09cc1047bd0cef258D.png_960x960_a50c59ad-743c-4d60-9432-14840f9af2c4.png?v=1663955967&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H08f788dd2f664db09cc1047bd0cef258D.png_960x960_a50c59ad-743c-4d60-9432-14840f9af2c4.png?v=1663955967&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H08f788dd2f664db09cc1047bd0cef258D.png_960x960_a50c59ad-743c-4d60-9432-14840f9af2c4.png?v=1663955967&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H08f788dd2f664db09cc1047bd0cef258D.png_960x960_a50c59ad-743c-4d60-9432-14840f9af2c4.png?v=1663955967&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H08f788dd2f664db09cc1047bd0cef258D.png_960x960_a50c59ad-743c-4d60-9432-14840f9af2c4.png?v=1663955967&width=940 940w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/H08f788dd2f664db09cc1047bd0cef258D.png_960x960_a50c59ad-743c-4d60-9432-14840f9af2c4.png?v=1663955967 960w
+                "
+                src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/H08f788dd2f664db09cc1047bd0cef258D.png_960x960_a50c59ad-743c-4d60-9432-14840f9af2c4.png?v=1663955967&width=533"
+                sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Windows 11 Laptop 6GB RAM"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="960"
+                height="960"
+              >
+              
+<img
+                  srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hd57979f3f3fc46d19c92f69fec13a613q.jpg_960x960_d1c03794-3815-4247-a64c-4198a61943ef.jpg?v=1663955967&width=165 165w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hd57979f3f3fc46d19c92f69fec13a613q.jpg_960x960_d1c03794-3815-4247-a64c-4198a61943ef.jpg?v=1663955967&width=360 360w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hd57979f3f3fc46d19c92f69fec13a613q.jpg_960x960_d1c03794-3815-4247-a64c-4198a61943ef.jpg?v=1663955967&width=533 533w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hd57979f3f3fc46d19c92f69fec13a613q.jpg_960x960_d1c03794-3815-4247-a64c-4198a61943ef.jpg?v=1663955967&width=720 720w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hd57979f3f3fc46d19c92f69fec13a613q.jpg_960x960_d1c03794-3815-4247-a64c-4198a61943ef.jpg?v=1663955967&width=940 940w,//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hd57979f3f3fc46d19c92f69fec13a613q.jpg_960x960_d1c03794-3815-4247-a64c-4198a61943ef.jpg?v=1663955967 960w
+                  "
+                  src="//cdn.shopify.com/s/files/1/0631/9207/2379/products/Hd57979f3f3fc46d19c92f69fec13a613q.jpg_960x960_d1c03794-3815-4247-a64c-4198a61943ef.jpg?v=1663955967&width=533"
+                  sizes="(min-width: 1300px) 292px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                  alt=""
+                  class="motion-reduce"
+                  loading="lazy"
+                  width="960"
+                  height="960"
+                ></div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/windows-11-laptop-6gb-ram"
+                id="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667989151931"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--15912641298619__featured_collection-7667989151931 NoMediaStandardBadge-template--15912641298619__featured_collection-7667989151931"
+              >
+                Windows 11 Laptop 6GB RAM
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--15912641298619__featured_collection-7667989151931"
+            
+          >
+            <a
+              href="/products/windows-11-laptop-6gb-ram"
+              id="CardLink-template--15912641298619__featured_collection-7667989151931"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--15912641298619__featured_collection-7667989151931 Badge-template--15912641298619__featured_collection-7667989151931"
+            >
+              Windows 11 Laptop 6GB RAM
+            </a>
+          </h3>
+          <div class="card-information"><span class="visually-hidden">Vendor:</span>
+              <div class="caption-with-letter-spacing light">clatsoqual</div><span class="caption-large light"></span>
+<div class="price ">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      <span class="price-item price-item--regular">
+        P2,500.00 BWP
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+      <span class="price-item price-item--sale price-item--last">
+        P2,500.00 BWP
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Unit price</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div></div>
+
+          </div>
+        </div><div class="quick-add no-js-hidden"><modal-opener data-modal="#QuickAdd-7667989151931">
+                <button
+                  id="quick-add-template--15912641298619__featured_collection7667989151931-submit"
+                  type="submit"
+                  name="add"
+                  class="quick-add__submit button button--full-width button--secondary"
+                  aria-haspopup="dialog"
+                  aria-labelledby="quick-add-template--15912641298619__featured_collection7667989151931-submit title-template--15912641298619__featured_collection-7667989151931"
+                  data-product-url="/products/windows-11-laptop-6gb-ram"
+                >
+                  Choose options
+                  <div class="loading-overlay__spinner hidden">
+                    <svg
+                      aria-hidden="true"
+                      focusable="false"
+                      role="presentation"
+                      class="spinner"
+                      viewBox="0 0 66 66"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                    </svg>
+                  </div>
+                </button>
+              </modal-opener>
+              <quick-add-modal id="QuickAdd-7667989151931" class="quick-add-modal">
+                <div
+                  role="dialog"
+                  aria-label="Choose options for Windows 11 Laptop 6GB RAM"
+                  aria-modal="true"
+                  class="quick-add-modal__content global-settings-popup"
+                  tabindex="-1"
+                >
+                  <button
+                    id="ModalClose-7667989151931"
+                    type="button"
+                    class="quick-add-modal__toggle"
+                    aria-label="Close"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+                  </button>
+                  <div id="QuickAddInfo-7667989151931" class="quick-add-modal__content-info"></div>
+                </div>
+              </quick-add-modal></div><div class="card__badge bottom left"></div>
+      </div>
+    </div>
+  </div>
+          </li></ul><div class="slider-buttons no-js-hidden">
+          <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left" aria-controls="Slider-template--15912641298619__featured_collection"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</button>
+          <div class="slider-counter caption">
+            <span class="slider-counter--current">1</span>
+            <span aria-hidden="true"> / </span>
+            <span class="visually-hidden">of</span>
+            <span class="slider-counter--total">8</span>
+          </div>
+          <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right" aria-controls="Slider-template--15912641298619__featured_collection"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</button>
+        </div></slider-component></div>
+</div>
+
+
+</section><section id="shopify-section-template--15912641298619__video" class="shopify-section section"><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/video-section.css?v=85459975000229754761663784571" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-deferred-media.css?v=54092797763792720131663784582" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.section-template--15912641298619__video-padding {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--15912641298619__video-padding {
+      padding-top: 36px;
+      padding-bottom: 36px;
+    }
+  }</style><div class="color-background-1 gradient">
+  <div class="video-section isolate page-width section-template--15912641298619__video-padding">
+    <div></div>
+    <noscript>
+      <div class="video-section__media"
+         style="padding-bottom: 62.1580547112462%;"
+      >
+        <a href="https://www.youtube.com/watch?v=FT3ODSg1GFE" class="video-section__poster media media--transparent media--landscape"><img src="//cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=3840" alt="Load video: " srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=375 375w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=750 750w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=1500 1500w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=1780 1780w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=2000 2000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=3000 3000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=3840 3840w" width="3840" height="2387" loading="lazy" sizes="(min-width: 1300px) 1200px, (min-width: 750px) calc(100vw - 10rem), 100vw">
+</a>
+      </div>
+    </noscript>
+    <deferred-media class="video-section__media deferred-media no-js-hidden gradient global-media-settings" data-media-id="FT3ODSg1GFE"
+       style="padding-bottom: 62.1580547112462%;"
+    >
+      <button
+        id="Deferred-Poster-Modal-FT3ODSg1GFE"
+        class="video-section__poster media deferred-media__poster media--landscape"
+        type="button"
+        aria-label="Load video: "
+      ><img src="//cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=3840" alt="Load video: " srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=375 375w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=750 750w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=1500 1500w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=1780 1780w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=2000 2000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=3000 3000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Apple_iphone_14_Pro_iPhone_14_Pro_Max_concept_renderings_drdNBC.jpg?v=1663789194&amp;width=3840 3840w" width="3840" height="2387" loading="lazy" sizes="(min-width: 1300px) 1200px, (min-width: 750px) calc(100vw - 10rem), 100vw">
+<span class="deferred-media__poster-button motion-reduce"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-play" fill="none" viewBox="0 0 10 14"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.48177 0.814643C0.81532 0.448245 0 0.930414 0 1.69094V12.2081C0 12.991 0.858787 13.4702 1.52503 13.0592L10.5398 7.49813C11.1918 7.09588 11.1679 6.13985 10.4965 5.77075L1.48177 0.814643Z" fill="currentColor"/></svg>
+</span>
+      </button>
+      <template><iframe src="https://www.youtube.com/embed/FT3ODSg1GFE?enablejsapi=1" class="js-youtube" allow="autoplay; encrypted-media" allowfullscreen title=""></iframe></template>
+    </deferred-media>
+  </div>
+</div>
+
+
+</section><section id="shopify-section-template--15912641298619__multicolumn" class="shopify-section section"><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/section-multicolumn.css?v=138363567467112740511663784560" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-slider.css?v=111384418465749404671663784569" media="print" onload="this.media='all'">
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-slider.css?v=111384418465749404671663784569" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.section-template--15912641298619__multicolumn-padding {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--15912641298619__multicolumn-padding {
+      padding-top: 36px;
+      padding-bottom: 36px;
+    }
+  }</style><div class="multicolumn color-inverse gradient background-primary no-heading">
+  <div class="page-width section-template--15912641298619__multicolumn-padding isolate"><slider-component class="slider-mobile-gutter">
+      <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--3-col-desktop slider slider--mobile grid--peek"
+        id="Slider-template--15912641298619__multicolumn"
+        role="list"
+      ><li id="Slide-template--15912641298619__multicolumn-1" class="multicolumn-list__item grid__item slider__slide center" >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3>iPhone 14 Pro Max</h3><div class="rte"><p>128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM, 1TB 6GB RAM. 48 MP, f/1.8, 24mm (wide), 1/1.28", 1.22µm, dual pixel PDAF, sensor-shift OIS<br/>12 MP, f/2.8, 77mm (telephoto), 1/3.5", PDAF, OIS, 3x optical zoom<br/>12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55", 1.4µm, dual pixel PDAF<br/>TOF 3D LiDAR scanner (depth)</p></div></div>
+            </div>
+          </li><li id="Slide-template--15912641298619__multicolumn-2" class="multicolumn-list__item grid__item slider__slide center" >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3>Galaxy S22 Ultra</h3><div class="rte"><p>128GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM. Stereo speakers.<br/>Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometerSamsung DeX, Samsung Wireless DeX (desktop experience support)Bixby natural language commands and dictationSamsung Pay (Visa, MasterCard certified)Ultra Wideband (UWB) support</p></div></div>
+            </div>
+          </li><li id="Slide-template--15912641298619__multicolumn-3" class="multicolumn-list__item grid__item slider__slide center" >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3>LENOVO (VIDIA GeForce MX150 / Intel UHD Graphics 620)</h3><div class="rte"><p>Resolution:1920, 1080Screen Size:15.6 inPanel <br/>Type:TNRam size:8 GBTechnology:DDR4 SDRAM<br/>Cpu model:Intel Core i5 (8th Gen) 8250UClock speed:1.6 GHz</p></div></div>
+            </div>
+          </li></ul><div class="slider-buttons no-js-hidden medium-hide">
+          <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</button>
+          <div class="slider-counter caption">
+            <span class="slider-counter--current">1</span>
+            <span aria-hidden="true"> / </span>
+            <span class="visually-hidden">of</span>
+            <span class="slider-counter--total">3</span>
+          </div>
+          <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</button>
+        </div></slider-component>
+    <div class="center small-hide medium-hide"></div>
+  </div>
+</div>
+
+
+</section><section id="shopify-section-template--15912641298619__1663792787e213e3aa" class="shopify-section section"><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/section-image-banner.css?v=170916557215809668651663784569" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-slider.css?v=111384418465749404671663784569" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-slideshow.css?v=87432719022228681551663784587" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>@media screen and (max-width: 749px) {
+    #Slider-template--15912641298619__1663792787e213e3aa::before,
+    #Slider-template--15912641298619__1663792787e213e3aa .media::before,
+    #Slider-template--15912641298619__1663792787e213e3aa:not(.banner--mobile-bottom) .banner__content::before {
+      padding-bottom: 91.94515852613539%;
+      content: '';
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: 750px) {
+    #Slider-template--15912641298619__1663792787e213e3aa::before,
+    #Slider-template--15912641298619__1663792787e213e3aa .media::before {
+      padding-bottom: 91.94515852613539%;
+      content: '';
+      display: block;
+    }
+  }</style><slideshow-component class="slider-mobile-gutter mobile-text-below" role="region" aria-roledescription="Carousel" aria-label="Slideshow about our brand"><div class="slideshow banner banner--adapt_image grid grid--1-col slider slider--everywhere banner--mobile-bottom"
+    id="Slider-template--15912641298619__1663792787e213e3aa"
+    aria-live="polite"
+    aria-atomic="true"
+    data-autoplay="false"
+    data-speed="5"
+  ><style>
+        #Slide-template--15912641298619__1663792787e213e3aa-1 .banner__media::after {
+          opacity: 0.0;
+        }
+      </style>
+      <div class="slideshow__slide grid__item grid--1-col slider__slide"
+        id="Slide-template--15912641298619__1663792787e213e3aa-1"
+        
+        role="group"
+        aria-roledescription="Slide"
+        aria-label="1 of 2"
+        tabindex="-1"
+      >
+        <div class="slideshow__media banner__media media"><img src="//cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=3840" srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=375 375w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=550 550w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=750 750w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=1500 1500w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=1780 1780w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=2000 2000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=3000 3000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/galaxy-s22-ultra_highlights_kv_img.jpg?v=1663792911&amp;width=3840 3840w" height="1073" loading="lazy" sizes="100vw">
+</div>
+        <div class="slideshow__text-wrapper banner__content banner__content--middle-center page-width">
+          <div class="slideshow__text banner__box content-container content-container--full-width-mobile color-inverse gradient slideshow__text--center slideshow__text-mobile--center"><h2 class="banner__heading h1">Galaxy 22 Ultra</h2><div class="banner__text" >
+                <span>128GB with a RAM of 8GB</span>
+              </div><div class="banner__buttons">
+                <a role="link" aria-disabled="true" class="button button--secondary">NEW</a>
+              </div></div>
+        </div>
+      </div><style>
+        #Slide-template--15912641298619__1663792787e213e3aa-2 .banner__media::after {
+          opacity: 0.0;
+        }
+      </style>
+      <div class="slideshow__slide grid__item grid--1-col slider__slide"
+        id="Slide-template--15912641298619__1663792787e213e3aa-2"
+        
+        role="group"
+        aria-roledescription="Slide"
+        aria-label="2 of 2"
+        tabindex="-1"
+      >
+        <div class="slideshow__media banner__media media"><img src="//cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=3840" srcset="//cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=375 375w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=550 550w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=750 750w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=1500 1500w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=1780 1780w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=2000 2000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=3000 3000w, //cdn.shopify.com/s/files/1/0631/9207/2379/files/Vu4UZU3VKXXqNayCfiLchG.jpg?v=1663793412&amp;width=3840 3840w" height="877" loading="lazy" sizes="100vw">
+</div>
+        <div class="slideshow__text-wrapper banner__content banner__content--middle-center page-width">
+          <div class="slideshow__text banner__box content-container content-container--full-width-mobile color-inverse gradient slideshow__text--center slideshow__text-mobile--center"><h2 class="banner__heading h1">iPhone 14 Pro Max</h2><div class="banner__text" >
+                <span>The A16 BIONIC 128GB iPhone 14 runs 1TB 6GB RAM.Buy it NOW</span>
+              </div><div class="banner__buttons">
+                <a role="link" aria-disabled="true" class="button button--secondary">NEW</a>
+              </div></div>
+        </div>
+      </div></div><div class="slideshow__controls slider-buttons no-js-hidden slideshow__controls--border-radius-mobile">
+      <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Previous slide" aria-controls="Slider-template--15912641298619__1663792787e213e3aa"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</button>
+      <div class="slider-counter slider-counter--counter caption"><span class="slider-counter--current">1</span>
+          <span aria-hidden="true"> / </span>
+          <span class="visually-hidden">of</span>
+          <span class="slider-counter--total">2</span></div>
+      <button type="button" class="slider-button slider-button--next" name="next" aria-label="Next slide" aria-controls="Slider-template--15912641298619__1663792787e213e3aa"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</button></div>
+    <noscript>
+      <div class="slider-buttons">
+        <div class="slider-counter"><a href="#Slide-template--15912641298619__1663792787e213e3aa-1" class="slider-counter__link link" aria-label="Load slide 1 of 2">
+              1
+            </a><a href="#Slide-template--15912641298619__1663792787e213e3aa-2" class="slider-counter__link link" aria-label="Load slide 2 of 2">
+              2
+            </a></div>
+      </div>
+    </noscript></slideshow-component>
+</section>
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/section-footer.css?v=83777583229853969691663784592" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-newsletter.css?v=103472482056003053551663784588" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-menu.css?v=151968516119678728991663784578" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-payment.css?v=69253961410771838501663784572" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-social.css?v=52211663153726659061663784563" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rte.css?v=69919436638515329781663784588" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/disclosure.css?v=646595190999601341663784572" media="print" onload="this.media='all'">
+
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-newsletter.css?v=103472482056003053551663784588" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-menu.css?v=151968516119678728991663784578" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-payment.css?v=69253961410771838501663784572" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-list-social.css?v=52211663153726659061663784563" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/component-rte.css?v=69919436638515329781663784588" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/disclosure.css?v=646595190999601341663784572" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.footer {
+    margin-top: 51px;
+  }
+
+  .section-footer-padding {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .footer {
+      margin-top: 68px;
+    }
+
+    .section-footer-padding {
+      padding-top: 36px;
+      padding-bottom: 36px;
+    }
+  }</style><footer class="footer color-inverse gradient section-footer-padding"><div class="footer__content-top page-width"><div class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet "><div class="footer-block grid__item" ><h2 class="footer-block__heading">About Us</h2><div class="footer-block__details-content rte">
+                    <p>Clatso Qual tech company is an academy in technology founded in 2022 Sep 20, dedicated to provide quality digital gadgets from PCs to smart phones. Parent company to black and white clothing line which happens to be founded in the same year but before Clatso Qual.<br/><br/>CEO, Tlatso Tsebe<br/>Associate CEO Boago Amos<br/>Registered.<br/>Certified by: CIPA</p>
+                  </div></div><div class="footer-block grid__item" ><h2 class="footer-block__heading">Contact</h2><div class="footer-block__details-content rte">
+                    <p>Email: reoultimategroup7billion@gmail.com<br/><br/>Mobile: +267 72692829/ 77811544<br/><br/>Check our facebook and YouTube in the icons below.</p>
+                  </div></div><div class="footer-block grid__item" ><h2 class="footer-block__heading">Mission</h2><div class="footer-block__details-content rte">
+                    <p>Our mission is to provide quality, reliable, and faster gadgets at convienent prices.</p>
+                  </div></div></div><div class="footer-block--newsletter"><ul class="footer__list-social list-unstyled list-social" role="list"><li class="list-social__item">
+                <a href="https://www.facebook.com/clatsoqualbnb" class="link list-social__link" ><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 18 18">
+  <path fill="currentColor" d="M16.42.61c.27 0 .5.1.69.28.19.2.28.42.28.7v15.44c0 .27-.1.5-.28.69a.94.94 0 01-.7.28h-4.39v-6.7h2.25l.31-2.65h-2.56v-1.7c0-.4.1-.72.28-.93.18-.2.5-.32 1-.32h1.37V3.35c-.6-.06-1.27-.1-2.01-.1-1.01 0-1.83.3-2.45.9-.62.6-.93 1.44-.93 2.53v1.97H7.04v2.65h2.24V18H.98c-.28 0-.5-.1-.7-.28a.94.94 0 01-.28-.7V1.59c0-.27.1-.5.28-.69a.94.94 0 01.7-.28h15.44z">
+</svg>
+<span class="visually-hidden">Facebook</span>
+                </a>
+              </li><li class="list-social__item">
+                <a href="https://www.youtube.com/channel/UCnIvqRaMzUzXg7ixCJGUJQw" class="link list-social__link" ><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-youtube" viewBox="0 0 100 70">
+  <path d="M98 11c2 7.7 2 24 2 24s0 16.3-2 24a12.5 12.5 0 01-9 9c-7.7 2-39 2-39 2s-31.3 0-39-2a12.5 12.5 0 01-9-9c-2-7.7-2-24-2-24s0-16.3 2-24c1.2-4.4 4.6-7.8 9-9 7.7-2 39-2 39-2s31.3 0 39 2c4.4 1.2 7.8 4.6 9 9zM40 50l26-15-26-15v30z" fill="currentColor">
+</svg>
+<span class="visually-hidden">YouTube</span>
+                </a>
+              </li></ul></div>
+    </div><div class="footer__content-bottom">
+    <div class="footer__content-bottom-wrapper page-width">
+      <div class="footer__column footer__localization isolate"></div>
+      <div class="footer__column footer__column--info"><div class="footer__payment">
+            <span class="visually-hidden">Payment methods</span>
+            <ul class="list list-payment" role="list"><li class="list-payment__item">
+                  <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-maestro"><title id="pi-maestro">Maestro</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#00A2E5" cx="23" cy="12" r="7"/><path fill="#7375CF" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+                </li></ul>
+          </div><div class="footer__copyright caption">
+          <small class="copyright__content">&copy; 2022, <a href="/" title="">clatsoqual</a></small>
+          <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+    <ul hidden>
+      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+      <li id="a11y-new-window-message">Opens in a new window.</li>
+    </ul>
+
+    <script>
+      window.shopUrl = 'https://clatsoqual.myshopify.com';
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        cart_url: '/cart',
+        predictive_search_url: '/search/suggest'
+      };
+
+      window.cartStrings = {
+        error: `There was an error while updating your cart. Please try again.`,
+        quantityError: `You can only add [quantity] of this item to your cart.`
+      }
+
+      window.variantStrings = {
+        addToCart: `Add to cart`,
+        soldOut: `Sold out`,
+        unavailable: `Unavailable`,
+      }
+
+      window.accessibilityStrings = {
+        imageAvailable: `Image [index] is now available in gallery view`,
+        shareSuccess: `Link copied to clipboard`,
+        pauseSlideshow: `Pause slideshow`,
+        playSlideshow: `Play slideshow`,
+      }
+    </script><script src="//cdn.shopify.com/s/files/1/0631/9207/2379/t/1/assets/predictive-search.js?v=31278710863581584031663784577" defer="defer"></script></body>
+</html>
